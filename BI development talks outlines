@@ -1,0 +1,38 @@
+BI development talks
+	1. 	Databases
+			Database object hierarchy
+				Database
+					Schema
+						Table
+						View
+						Function
+			DDL/DML/DCL statements
+			Window functions
+			CTE
+			Performance tuning (indices)
+						
+	2.	BI application architecture
+			Data flow
+				Source
+				Stage
+				Cleansing
+				Core
+				Datamart
+			Application architecture
+				ETL application
+					ETL
+					ELT
+				Reporting application
+			Landscapes
+				Dev
+				Int
+				Prd
+			Data warehouse building basics
+				Schemas
+					Star schema
+					Snowflake schema
+				Data modeling
+					Fact table
+					Dimension table
+					Integrity constraints
+
